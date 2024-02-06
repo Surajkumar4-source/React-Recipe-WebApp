@@ -22,7 +22,7 @@ This React Recipe App is designed to help users explore and discover various rec
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-recipe-app.git
+   git clone https://github.com/Surajkumar4-source/react-recipe-app.git
 
 2. **Navigate to the project directory:**
 
