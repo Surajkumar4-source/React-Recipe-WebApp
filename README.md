@@ -1,4 +1,4 @@
-# React Recipe App
+# React Recipe WebApp
 
 This React Recipe App is designed to help users explore and discover various recipes. It utilizes React and React Router for seamless navigation through different sections of the app.
 
